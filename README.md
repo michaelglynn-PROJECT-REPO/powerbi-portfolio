@@ -8,6 +8,6 @@ I’m currently completing a Data Analyst apprenticeship with Cambridge Spark, e
 Power BI | DAX | SQL | Data Modeling | UX Design | Performance Optimization
 
 # Projects:
-[Finance Report for SM/AM](projects/finance-zebrabi_conversion.md)
+[Finance Report for SM/AM](projects/finance-zebrabi)
 
-[Education Dashboard](projects/MIS_Dashboard.md)
+[Education Dashboard](projects/mis-dashboard)
