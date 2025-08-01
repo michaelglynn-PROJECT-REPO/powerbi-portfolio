@@ -10,4 +10,5 @@ Power BI | DAX | SQL | Data Modeling | UX Design | Performance Optimization
 
 Projects
 [Finance Report for SM/AM](projects/finance-zebrabi_conversion.md)
+
 [Education Dashboard](projects/MIS_Dashboard.md)
