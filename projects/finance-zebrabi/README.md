@@ -32,6 +32,6 @@ PDF export
 Sanitized PBIX
 
 
-**Disclaimer**:  
+### **Disclaimer**:  
 This report contains redacted or anonymized content. All personally identifiable information (e.g., names, emails, internal codes, financial figures) has been removed or replaced with placeholder data. The report layout and logic are preserved to demonstrate Power BI design, interactivity, and DAX techniques.  
 No real company or individual data is shared in this version.
