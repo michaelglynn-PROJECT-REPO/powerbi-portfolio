@@ -17,9 +17,9 @@ LabelDimMap design for display logic
 Performance optimization (matrix loading down from 82s → 8s)
 
 ## Visuals
-[View Before (Zebra BI)](./visuals/Finance Reports for SM & AM (After) REDACTED.pdf) 
+[View Before (Zebra BI)](./visuals/Finance%20Reports%20for%20SM%20&%20AM%20(Before)%20REDACTED.pdf)
 
-[View After (Native Power BI)](./visuals/Finance Reports for SM & AM (After) REDACTED.pdf)
+[View After (Native Power BI)](./visuals/Finance%20Reports%20for%20SM%20&%20AM%20(After)%20REDACTED.pdf)
 
 Highlights: Smart Matrix, Conditional Formatting, Custom Drillthrough
 
