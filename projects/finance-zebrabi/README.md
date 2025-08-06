@@ -1,4 +1,4 @@
-### Finance Reports for SM & AM  
+# Finance Reports for SM & AM  
 [← Back to Portfolio Homepage](https://michaelglynn-project-repo.github.io/powerbi-portfolio/)
 ## Project Goal:
 Replace ZebraBI visuals with native Power BI visuals to reduce cost and improve maintainability.
