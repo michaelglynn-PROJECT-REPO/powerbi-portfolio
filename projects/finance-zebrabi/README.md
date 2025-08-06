@@ -1,3 +1,7 @@
+---
+title: Michael Glynn – Power BI Portfolio
+description: Professional portfolio of Power BI projects and dashboard work
+---
 # ZebraBI to PowerBI Migration  
 _Replicating Zebra BI visuals using native Power BI components with smart DAX and optimized matrix design_
 
