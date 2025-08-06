@@ -3,38 +3,50 @@
 I'm a Data Analyst with a focus on Power BI, DAX, and visual storytelling.  
 This site showcases selected work across financial reporting, education analytics, and dashboard design.
 
-[View Resume](./resume-michael-glynn.pdf) • [GitHub](https://github.com/michaelglynn-PROJECT-REPO)
-
-A curated portfolio of Power BI projects showcasing advanced data visualization, report optimization, and custom DAX logic. Projects include a native Power BI replacement of Zebra BI visuals for financial reporting and a visually rich education dashboard. Designed for job applications and internal career progression.
-
-I'm a Data Analyst working in education and finance. I specialize in Power BI visual storytelling, smart DAX logic, and performance-tuned reporting. This portfolio highlights key projects I’ve developed, showcasing a broad range of analytical and design skills.
-I’m currently completing a Data Analyst apprenticeship with Cambridge Spark, expected to finish in February 2026.
-
-# Skills:
-Power BI | DAX | SQL | Data Modeling | UX Design | Performance Optimization
-
-# Projects:
-[Finance Report for SM/AM](projects/finance-zebrabi)
-
-[Education Dashboard](projects/mis-dashboard)
-
-# 📊 Power BI Portfolio
-
-Welcome! This portfolio showcases Power BI projects I've built around financial reporting, dashboard design, DAX optimization, and report migration from Zebra BI visuals to native Power BI.
+[📄 View Resume](./resume-michael-glynn.pdf) • [💻 GitHub](https://github.com/michaelglynn-PROJECT-REPO)
 
 ---
 
-## 🗂️ Projects
+## 🧠 About
 
-- [📁 Finance Reports for SM & AM](./projects/finance-zebrabi/)
-- [📁 Education Dashboard (ROC)](./projects/MIS-Dashboard.md)
+This curated portfolio showcases Power BI projects I've built across various sectors, highlighting advanced data visualization, custom DAX logic, and performance-tuned reporting.  
+Projects include:
+- Migrating Zebra BI visuals to native Power BI for financial reporting
+- Designing rich educational dashboards for college-wide insight
+- Creating smart matrix tables, waterfall visuals, and dynamic drillthrough logic
+
+I'm currently completing a Data Analyst apprenticeship with **Cambridge Spark**, expected to finish in February 2026.
 
 ---
 
-## 🧠 Skills
+## 🧰 Skills
 
 Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ---
 
-_© 2025 Michael Glynn · [LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:michaelglynn@hotmail.com)_
+## 🗂 Projects
+
+### 📊 Finance Reports for SM & AM
+
+| Before | After |
+|--------|-------|
+| ![Before Waterfall](./assets/images/finance_before_waterfall_thumb.png) | ![After Waterfall](./assets/images/finance_after_waterfall_thumb.png) |
+| ![Before Matrix](./assets/images/finance_before_matrix_thumb.png) | ![After Matrix](./assets/images/finance_after_matrix_thumb.png) |
+
+👉 [View Full Project →](./projects/finance-zebrabi/)
+
+---
+
+### 🎓 Education Dashboard (ROC)
+
+Coming soon — a data-rich visual dashboard project focused on student performance, enrolment trends, and dropout detection.
+
+👉 [View Project](./projects/mis-dashboard)
+
+---
+
+## 📬 Contact
+
+_© 2025 Michael Glynn_  
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:michaelglynn@hotmail.com)
