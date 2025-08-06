@@ -33,6 +33,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 |--------|-------|
 | ![Finance Waterfall Before](./assets/images/finance_before_waterfall_thumb.png) | ![Finance Waterfall After](./assets/images/finance_after_waterfall_thumb.png) |
 | ![Finance Matrix Before](./assets/images/finance_before_matrix_thumb.png) | ![Finance Matrix Before](./assets/images/finance_after_matrix_thumb.png) |
+_A fully native Power BI replacement of ZebraBI visuals, including matrix logic, custom tooltips, and optimized visuals._
 
 👉 [View Full Project →](./projects/finance-zebrabi/)
 
