@@ -27,7 +27,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ## Projects
 
-### Finance Reports for SM & AM
+### ZebraBI to PowerBI Migration
 
 | Before | After |
 |--------|-------|
