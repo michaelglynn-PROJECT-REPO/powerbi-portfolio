@@ -31,8 +31,8 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 | Before | After |
 |--------|-------|
-| ![Before Waterfall](./assets/images/finance_before_waterfall_thumb.png) | ![After Waterfall](./assets/images/finance_after_waterfall_thumb.png) |
-| ![Before Matrix](./assets/images/finance_before_matrix_thumb.png) | ![After Matrix](./assets/images/finance_after_matrix_thumb.png) |
+| ![Finance Waterfall Before](./assets/images/finance_before_waterfall_thumb.png) | ![Finance Waterfall After](./assets/images/finance_after_waterfall_thumb.png) |
+| ![Finance Matrix Before](./assets/images/finance_before_matrix_thumb.png) | ![Finance Matrix Before](./assets/images/finance_after_matrix_thumb.png) |
 
 👉 [View Full Project →](./projects/finance-zebrabi/)
 
