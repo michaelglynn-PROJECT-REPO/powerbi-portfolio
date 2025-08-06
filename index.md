@@ -25,7 +25,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ---
 
-## 🗂 Projects
+## Projects
 
 ### Finance Reports for SM & AM
 
