@@ -1,4 +1,6 @@
-# Finance Reports for SM & AM  
+# ZebraBI to PowerBI Migration  
+_Replicating Zebra BI visuals using native Power BI components with smart DAX and optimized matrix design_
+
 [← Back to Portfolio Homepage](https://michaelglynn-project-repo.github.io/powerbi-portfolio/)
 
 ## Project Goal:
