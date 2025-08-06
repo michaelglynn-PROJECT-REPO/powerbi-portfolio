@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Glynn
+# Hi, I'm Michael Glynn
 
 I'm a Data Analyst with a focus on Power BI, DAX, and visual storytelling.  
 This site showcases selected work across financial reporting, education analytics, and dashboard design.
@@ -7,7 +7,7 @@ This site showcases selected work across financial reporting, education analytic
 
 ---
 
-## 🧠 About
+## About
 
 This curated portfolio showcases Power BI projects I've built across various sectors, highlighting advanced data visualization, custom DAX logic, and performance-tuned reporting.  
 Projects include:
@@ -19,7 +19,7 @@ I'm currently completing a Data Analyst apprenticeship with **Cambridge Spark**,
 
 ---
 
-## 🧰 Skills
+## Skills
 
 Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
@@ -27,7 +27,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ## 🗂 Projects
 
-### 📊 Finance Reports for SM & AM
+### Finance Reports for SM & AM
 
 | Before | After |
 |--------|-------|
@@ -38,7 +38,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ---
 
-### 🎓 Education Dashboard (ROC)
+### Education Dashboard (ROC)
 
 Coming soon — a data-rich visual dashboard project focused on student performance, enrolment trends, and dropout detection.
 
@@ -46,7 +46,7 @@ Coming soon — a data-rich visual dashboard project focused on student performa
 
 ---
 
-## 📬 Contact
+## Contact
 
 _© 2025 Michael Glynn_  
 [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:michaelglynn@hotmail.com)
