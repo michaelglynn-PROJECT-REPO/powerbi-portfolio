@@ -1,6 +1,6 @@
 ---
 title: ZebraBI to PowerBI Migration
-description: _Replicating Zebra BI visuals using native Power BI components with smart DAX and optimized matrix design_
+description: Replicating Zebra BI visuals using native Power BI components with smart DAX and optimized matrix design
 ---
 
 [← Back to Portfolio Homepage](https://michaelglynn-project-repo.github.io/powerbi-portfolio/)
