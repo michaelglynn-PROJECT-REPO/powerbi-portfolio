@@ -55,4 +55,4 @@ Coming soon — a data-rich visual dashboard project focused on student performa
 ## Contact
 
 _© 2025 Michael Glynn_  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourprofile) • [Email](mailto:michaelglynn@hotmail.com)
+[Connect vua LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) • [Connect via Email](mailto:michaelglynn@hotmail.com)
