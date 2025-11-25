@@ -1,11 +1,12 @@
 ---
 title: Michael Glynn – Power BI Portfolio
-description: Professional portfolio of Power BI projects and dashboard work
+description: Professional portfolio of Power BI and analytics projects
 ---
+
 # Hi, I'm Michael Glynn
 
-I'm a Data Analyst with a focus on Power BI, DAX, and visual storytelling.  
-This site showcases selected work across financial reporting, education analytics, and dashboard design.
+I'm a Data Analyst with a focus on Power BI, Python, forecasting, and visual storytelling.  
+This site showcases selected work across financial reporting, predictive modelling, and education analytics.
 
 [📄 View Resume](./resume-michael-glynn.pdf) • [💻 GitHub](https://github.com/michaelglynn-PROJECT-REPO)
 
@@ -13,11 +14,12 @@ This site showcases selected work across financial reporting, education analytic
 
 ## About
 
-This curated portfolio showcases Power BI projects I've built across various sectors, highlighting advanced data visualization, custom DAX logic, and performance-tuned reporting.  
+This curated portfolio showcases Power BI and Python projects I've built across finance, education, and predictive analytics.  
 Projects include:
-- Migrating Zebra BI visuals to native Power BI for financial reporting
-- Designing rich educational dashboards for college-wide insight
-- Creating smart matrix tables, waterfall visuals, and dynamic drillthrough logic
+- Migrating Zebra BI visuals to native Power BI for financial reporting  
+- Building a full Python → Power BI forecasting pipeline using Holt-Winters ETS  
+- Designing rich educational dashboards and dynamic matrix layouts  
+- Creating time-series models, automated SQL pipelines, and smart DAX structures
 
 I'm currently completing a Data Analyst apprenticeship with **Cambridge Spark**, expected to finish in February 2026.
 
@@ -25,7 +27,7 @@ I'm currently completing a Data Analyst apprenticeship with **Cambridge Spark**,
 
 ## Skills
 
-Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
+Power BI · Python · Time-Series Forecasting · DAX · SQL · UX Design · Data Modeling · Report Optimization
 
 ---
 
@@ -36,7 +38,7 @@ Power BI · DAX · SQL · UX Design · Data Modeling · Report Optimization
 | Before | After |
 |--------|-------|
 | ![Finance Waterfall Before](./assets/images/finance_before_waterfall_thumb.png) | ![Finance Waterfall After](./assets/images/finance_after_waterfall_thumb.png) |
-| ![Finance Matrix Before](./assets/images/finance_before_matrix_thumb.png) | ![Finance Matrix Before](./assets/images/finance_after_matrix_thumb.png) |
+| ![Finance Matrix Before](./assets/images/finance_before_matrix_thumb.png) | ![Finance Matrix After](./assets/images/finance_after_matrix_thumb.png) |
 
 _A fully native Power BI replacement of ZebraBI visuals, including matrix logic, custom tooltips, and optimized visuals._
 
@@ -44,9 +46,18 @@ _A fully native Power BI replacement of ZebraBI visuals, including matrix logic,
 
 ---
 
+### Predictive Forecasting & Time-Series Analysis  
+**Python + Power BI**
+
+A full forecasting pipeline built using Databridge SQL, Python (Holt-Winters, ADF testing, RMSE evaluation), and Power BI visuals for trend and scenario exploration.
+
+👉 [View Full Project →](./projects/Predictive%20Forecasting%20&%20Time-Series%20Analysis)
+
+---
+
 ### Education Dashboard (ROC)
 
-Coming soon — a data-rich visual dashboard project focused on student performance, enrolment trends, and dropout detection.
+A data-rich Power BI dashboard focused on student performance, enrolment trends, and dropout detection (coming soon).
 
 👉 [View Project](./projects/mis-dashboard)
 
@@ -55,4 +66,5 @@ Coming soon — a data-rich visual dashboard project focused on student performa
 ## Contact
 
 _© 2025 Michael Glynn_  
-[Connect vua LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) • [Connect via Email](mailto:michaelglynn@hotmail.com)
+[Connect via LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) • [Connect via Email](mailto:michaelglynn@hotmail.com)
+
