@@ -49,7 +49,7 @@ _A fully native Power BI replacement of ZebraBI visuals, including matrix logic,
 ### Predictive Forecasting & Time-Series Analysis  
 **Python + Power BI**
 
-| Overview | Forecasting Detail |
+| Forecasting Enrolments | Forecasting Withdrawals |
 |----------|--------------------|
 | ![Forecasting Thumbnail](./assets/images/forecasting_overview_thumb.png) | ![Forecasting Thumbnail 2](./assets/images/forecasting_overview2_thumb.png) |
 
