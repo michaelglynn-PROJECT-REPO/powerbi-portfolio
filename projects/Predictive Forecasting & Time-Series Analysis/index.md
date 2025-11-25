@@ -43,7 +43,7 @@ RMSE, NRMSE, and fallback seasonal naïve models
 ---
 
 ## Visuals
-[View Project 3 Power BI PDF (Redacted)](./visuals/Proj3%20PBI%20REDACTED.pdf)
+[View Project 3 Power BI PDF (Redacted)](./visuals/visuals/Proj3%20PBI%20REDACTED.pdf)
 
 Highlights: Forecast overlays, academic-year slicing, enrolment/withdrawal trend decomposition.
 
