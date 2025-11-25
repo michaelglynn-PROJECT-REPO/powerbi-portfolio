@@ -17,7 +17,7 @@ This site showcases selected work across financial reporting, predictive modelli
 This curated portfolio showcases Power BI and Python projects I've built across finance, education, and predictive analytics.  
 Projects include:
 - Migrating Zebra BI visuals to native Power BI for financial reporting  
-- Building a full Python → Power BI forecasting pipeline using Holt-Winters ETS  
+- Building a Python → Power BI forecasting pipeline using Holt-Winters ETS  
 - Designing rich educational dashboards and dynamic matrix layouts  
 - Creating time-series models, automated SQL pipelines, and smart DAX structures
 
@@ -49,7 +49,11 @@ _A fully native Power BI replacement of ZebraBI visuals, including matrix logic,
 ### Predictive Forecasting & Time-Series Analysis  
 **Python + Power BI**
 
-A full forecasting pipeline built using Databridge SQL, Python (Holt-Winters, ADF testing, RMSE evaluation), and Power BI visuals for trend and scenario exploration.
+| Overview | Forecasting Detail |
+|----------|--------------------|
+| ![Forecasting Thumbnail](./assets/images/forecasting_overview_thumb.png) | ![Forecasting Thumbnail 2](./assets/images/forecasting_overview_thumb2.png) |
+
+_A forecasting pipeline combining Python (Holt-Winters ETS, ADF testing, RMSE scoring) with Power BI for trend analysis and scenario planning._
 
 👉 [View Full Project →](./projects/Predictive%20Forecasting%20&%20Time-Series%20Analysis)
 
