@@ -51,7 +51,7 @@ _A fully native Power BI replacement of ZebraBI visuals, including matrix logic,
 
 | Overview | Forecasting Detail |
 |----------|--------------------|
-| ![Forecasting Thumbnail](./assets/images/forecasting_overview_thumb.png) | ![Forecasting Thumbnail 2](./assets/images/forecasting_overview_thumb2.png) |
+| ![Forecasting Thumbnail](./assets/images/forecasting_overview_thumb.png) | ![Forecasting Thumbnail 2](./assets/images/forecasting_overview2_thumb.png) |
 
 _A forecasting pipeline combining Python (Holt-Winters ETS, ADF testing, RMSE scoring) with Power BI for trend analysis and scenario planning._
 
