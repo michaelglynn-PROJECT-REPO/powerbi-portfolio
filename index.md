@@ -75,7 +75,7 @@ The project uses SQL for source-data extraction, Python for transformation and H
 
 The modelling process compares additive and multiplicative trend and seasonal configurations using a 12-month holdout period and RMSE-based model selection.
 
-[View Forecasting Project →](./projects/Predictive-Forecasting-Time-Series-Analysis/)
+[View Forecasting Project →](./projects/predictive-forecasting-time-series-analysis/)
 
 ---
 
