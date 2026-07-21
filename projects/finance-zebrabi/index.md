@@ -137,4 +137,3 @@ The main challenge was not simply recreating the appearance of the Zebra BI repo
 This portfolio version contains redacted or anonymised content. Names, email addresses, internal codes and financial figures have been removed or replaced where required.
 
 The report structure, visual design and technical logic have been retained to demonstrate the Power BI solution without disclosing confidential organisational data.
-```
