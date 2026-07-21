@@ -33,7 +33,7 @@ Develop an end-to-end forecasting pipeline that extracts monthly qualification a
 ---
 
 ## Visuals
-[View Forecasting Report (Redacted PDF)](./visuals/Proj3%20PBI%20REDACTED.pdf)
+[View Forecasting Report (Redacted PDF)](./visuals/project-3-power-bi-redacted.pdf)
 
 Highlights include:  
 - Forecast overlays for enrolments and withdrawals  
@@ -58,7 +58,7 @@ The project strengthened my understanding of time-series modelling, forecasting 
 - [import_transform.py](./import_transform.py)
 
 ### Power BI Export (Redacted)
-- [Forecasting Report PDF](./visuals/Proj3%20PBI%20REDACTED.pdf)
+- [Forecasting Report PDF](./visuals/project-3-power-bi-redacted.pdf)
 
 ---
 
