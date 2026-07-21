@@ -95,9 +95,9 @@ This significantly improved the report experience while retaining the required f
 
 ## Before and After
 
-[View Original Zebra BI Report →](./visuals/Finance%20Reports%20for%20SM%20&%20AM%20(Before)%20REDACTED.pdf)
+[View Original Zebra BI Report →](./visuals/finance-report-before-redacted.pdf)
 
-[View Native Power BI Replacement →](./visuals/Finance%20Reports%20for%20SM%20&%20AM%20(After)%20REDACTED.pdf)
+[View Native Power BI Replacement →](./visuals/finance-report-after-redacted.pdf)
 
 ### Key Areas Recreated
 
