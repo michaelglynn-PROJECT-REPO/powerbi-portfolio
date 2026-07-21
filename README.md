@@ -4,7 +4,7 @@ A curated portfolio of Power BI and data analytics projects showcasing advanced 
 Projects include a native Power BI replacement of Zebra BI visuals, a predictive forecasting model built with Python + Power BI, and a visually rich education dashboard.
 
 I'm a Data Analyst working in education and finance, specialising in Power BI visual storytelling, smart DAX logic, predictive analytics, and performance-tuned reporting.  
-I’m currently completing a Data Analyst apprenticeship with Cambridge Spark, expected to finish in February 2026.
+I have completed a Level 4 Data Analyst Apprenticeship with Cambridge Spark.
 
 ---
 
