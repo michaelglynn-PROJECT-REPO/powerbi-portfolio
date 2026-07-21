@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
-title: Michael Glynn – Power BI Portfolio
-description: Professional portfolio of Power BI projects and dashboard work
+
+title: Michael Glynn – Power BI & Business Intelligence Portfolio
+description: Power BI, SQL and Python case studies covering financial reporting, forecasting, data modelling and business intelligence development.
+
+url: "https://michaelglynn-project-repo.github.io"
+baseurl: "/powerbi-portfolio"
+
+show_downloads: false
