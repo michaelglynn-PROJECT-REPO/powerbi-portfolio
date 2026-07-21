@@ -1,74 +1,111 @@
 ---
-title: Michael Glynn – Power BI Portfolio
-description: Professional portfolio of Power BI and analytics projects
+title: Michael Glynn – Power BI & Business Intelligence Portfolio
+description: Portfolio of Power BI, SQL, Python and business intelligence projects by Michael Glynn
 ---
 
-# Hi, I'm Michael Glynn
+# Michael Glynn
 
-I'm a Data Analyst with a focus on Power BI, Python, forecasting, and visual storytelling.  
-This site showcases selected work across financial reporting, predictive modelling, and education analytics.
+## Power BI & Business Intelligence Developer
 
-[📄 View Resume](./resume-michael-glynn.pdf) • [💻 GitHub](https://github.com/michaelglynn-PROJECT-REPO)
+I build end-to-end reporting and analytics solutions using **Power BI, SQL, DAX, Power Query and Python** — from gathering requirements and transforming data through to semantic modelling, dashboard development and performance optimisation.
 
----
-
-## About
-
-This curated portfolio showcases Power BI and Python projects I've built across finance, education, and predictive analytics.  
-Projects include:
-- Migrating Zebra BI visuals to native Power BI for financial reporting  
-- Building a Python → Power BI forecasting pipeline using Holt-Winters ETS  
-- Designing rich educational dashboards and dynamic matrix layouts  
-- Creating time-series models, automated SQL pipelines, and smart DAX structures
-
-I'm currently completing a Data Analyst apprenticeship with **Cambridge Spark**, expected to finish in February 2026.
+[View Projects](#projects) · [Download CV](./resume-michael-glynn.pdf) · [LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) · [GitHub](https://github.com/michaelglynn-PROJECT-REPO)
 
 ---
 
-## Skills
+## Selected Impact
 
-Power BI · Python · Time-Series Forecasting · DAX · SQL · UX Design · Data Modeling · Report Optimization
+- Rebuilt third-party financial reporting visuals using native Power BI
+- Reduced a complex matrix visual’s loading time from **82 seconds to 8 seconds**
+- Developed an automated **SQL → Python → Power BI** forecasting pipeline
+- Delivered reporting solutions across finance, education and operational services
+- Created reusable DAX, Power Query and data-modelling structures for complex reporting requirements
+
+---
+
+## About Me
+
+I am a data and business intelligence professional specialising in Power BI development, reporting automation and analytical problem-solving.
+
+My work covers the full reporting lifecycle, including:
+
+- Translating stakeholder requirements into practical reporting solutions
+- Extracting and transforming data using SQL, Power Query and Python
+- Designing relational models and Power BI semantic models
+- Developing DAX measures, dynamic matrices and interactive reports
+- Improving report performance, usability and maintainability
+- Validating results and presenting findings to technical and non-technical stakeholders
+
+I have completed a **Level 4 Data Analyst Apprenticeship with Cambridge Spark**, alongside delivering business intelligence projects in a professional environment.
+
+---
+
+## Technical Skills
+
+**Business Intelligence:** Power BI, DAX, Power Query, semantic modelling, data visualisation, report optimisation
+
+**Data and Automation:** SQL, Python, pandas, data transformation, automated reporting pipelines
+
+**Analytics:** Time-series forecasting, Holt-Winters ETS, model evaluation, trend analysis, KPI development
+
+**Delivery:** Requirements gathering, stakeholder communication, testing, documentation and data quality validation
 
 ---
 
 ## Projects
 
-### ZebraBI to PowerBI Migration
+### Finance Reporting Visual Migration
 
 | Before | After |
-|--------|-------|
-| ![Finance Waterfall Before](./assets/images/finance_before_waterfall_thumb.png) | ![Finance Waterfall After](./assets/images/finance_after_waterfall_thumb.png) |
-| ![Finance Matrix Before](./assets/images/finance_before_matrix_thumb.png) | ![Finance Matrix After](./assets/images/finance_after_matrix_thumb.png) |
+|:------:|:-----:|
+| ![Finance waterfall before migration](./assets/images/finance_before_waterfall_thumb.png) | ![Finance waterfall after migration](./assets/images/finance_after_waterfall_thumb.png) |
+| ![Finance matrix before migration](./assets/images/finance_before_matrix_thumb.png) | ![Finance matrix after migration](./assets/images/finance_after_matrix_thumb.png) |
 
-_A fully native Power BI replacement of ZebraBI visuals, including matrix logic, custom tooltips, and optimized visuals._
+A migration of third-party Zebra BI financial reporting visuals to maintainable, native Power BI components.
 
-👉 [View Full Project →](./projects/finance-zebrabi/)
+The solution included dynamic financial matrices, custom tooltips, conditional formatting, reusable DAX structures and visual performance optimisation.
 
----
+**Key result:** Reduced the loading time of a complex matrix visual from **82 seconds to 8 seconds**.
 
-### Predictive Forecasting & Time-Series Analysis  
-**Python + Power BI**
-
-| Forecasting Enrolments | Forecasting Withdrawals |
-|----------|--------------------|
-| ![Forecasting Thumbnail](./assets/images/forecasting_overview_thumb.png) | ![Forecasting Thumbnail 2](./assets/images/forecasting_overview2_thumb.png) |
-
-_A forecasting pipeline combining Python (Holt-Winters ETS, ADF testing, RMSE scoring) with Power BI for trend analysis and scenario planning._
-
-👉 [View Full Project →](./projects/Predictive%20Forecasting%20&%20Time-Series%20Analysis)
+[View Finance Migration Project →](./projects/finance-zebrabi/)
 
 ---
 
-### Education Dashboard (ROC)
+### Enrolment and Withdrawal Forecasting
 
-A data-rich Power BI dashboard focused on student performance, enrolment trends, and dropout detection (coming soon).
+**Python · SQL · Power BI · Time-Series Analysis**
 
-👉 [View Project](./projects/mis-dashboard)
+| Enrolment Forecasting | Withdrawal Forecasting |
+|:---------------------:|:----------------------:|
+| ![Power BI enrolment forecasting report](./assets/images/forecasting_overview_thumb.png) | ![Power BI withdrawal forecasting report](./assets/images/forecasting_overview2_thumb.png) |
+
+An automated forecasting solution designed to support resource planning and identify future enrolment and withdrawal patterns.
+
+The project uses SQL for source-data extraction, Python for transformation and Holt-Winters ETS modelling, and Power BI for presenting historical trends, model results and future forecasts.
+
+The modelling process compares additive and multiplicative trend and seasonal configurations using a 12-month holdout period and RMSE-based model selection.
+
+[View Forecasting Project →](./projects/Predictive-Forecasting-Time-Series-Analysis/)
+
+---
+
+## Current Development
+
+Additional portfolio case studies are being prepared, including:
+
+- Qualification Achievement Rate reporting and forecasting
+- Operational compliance reporting
+- Education and learner-performance analytics
+- Power BI security, refresh and deployment processes
 
 ---
 
 ## Contact
 
-_© 2025 Michael Glynn_  
-[Connect via LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) • [Connect via Email](mailto:michaelglynn@hotmail.com)
+For employment opportunities or professional enquiries:
 
+[LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) · [Email](mailto:michaelglynn@hotmail.com) · [GitHub](https://github.com/michaelglynn-PROJECT-REPO)
+
+---
+
+_© 2026 Michael Glynn_
