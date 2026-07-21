@@ -7,19 +7,9 @@ description: Portfolio of Power BI, SQL, Python and business intelligence projec
 
 ## Power BI & Business Intelligence Developer
 
-I build end-to-end reporting and analytics solutions using **Power BI, SQL, DAX, Power Query and Python** — from gathering requirements and transforming data through to semantic modelling, dashboard development and performance optimisation.
+I build end-to-end reporting and analytics solutions using **Power BI, SQL, DAX, Power Query and Python** - from gathering requirements and transforming data through to semantic modelling, dashboard development and performance optimisation.
 
 [View Projects](#projects) · [Download CV](./resume-michael-glynn.pdf) · [LinkedIn](https://linkedin.com/in/michael-glynn-81609b175) · [GitHub](https://github.com/michaelglynn-PROJECT-REPO)
-
----
-
-## Selected Impact
-
-- Rebuilt third-party financial reporting visuals using native Power BI
-- Reduced a complex matrix visual’s loading time from **82 seconds to 8 seconds**
-- Developed an automated **SQL → Python → Power BI** forecasting pipeline
-- Delivered reporting solutions across finance, education and operational services
-- Created reusable DAX, Power Query and data-modelling structures for complex reporting requirements
 
 ---
 
