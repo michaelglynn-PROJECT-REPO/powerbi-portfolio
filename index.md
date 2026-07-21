@@ -44,16 +44,38 @@ I have completed a **Level 4 Data Analyst Apprenticeship with Cambridge Spark**,
 
 ## Projects
 
+### Qualification Achievement Rate Reporting & Forecasting
+
+**Power BI · DAX · SQL · Python · National Benchmarking**
+
+| QAR Summary | Forecast Analysis |
+|:-----------:|:-----------------:|
+| ![Qualification Achievement Rate summary dashboard](./assets/images/qar-summary-thumb.png) | ![Qualification Achievement Rate forecast dashboard](./assets/images/qar-forecast-thumb.png) |
+
+An end-to-end Power BI solution for analysing qualification achievement, retention and pass rates across academic years.
+
+The project translates complex reporting methodology into a transparent and repeatable model, including hybrid reporting-year allocation, withdrawal exclusions, restarted qualification logic and national benchmark comparisons.
+
+Historical performance was also used to forecast future achievers, completers, leavers and headline performance rates.
+
+**Key features:** DfE-aligned reporting logic, national benchmarking, exclusion analysis, demographic reporting and forward forecasting.
+
+[View QAR Reporting & Forecasting Project →](./projects/qualification-achievement-rate-reporting-forecasting/)
+
+---
+
 ### Finance Reporting Visual Migration
+
+**Power BI · DAX · Power Query · Performance Optimisation**
 
 | Before | After |
 |:------:|:-----:|
 | ![Finance waterfall before migration](./assets/images/finance_before_waterfall_thumb.png) | ![Finance waterfall after migration](./assets/images/finance_after_waterfall_thumb.png) |
 | ![Finance matrix before migration](./assets/images/finance_before_matrix_thumb.png) | ![Finance matrix after migration](./assets/images/finance_after_matrix_thumb.png) |
 
-A migration of third-party Zebra BI financial reporting visuals to maintainable, native Power BI components.
+A migration of third-party Zebra BI financial reporting visuals to maintainable native Power BI components.
 
-The solution included dynamic financial matrices, custom tooltips, conditional formatting, reusable DAX structures and visual performance optimisation.
+The solution included dynamic financial matrices, custom tooltips, conditional formatting, drill-through, reusable DAX structures and visual performance optimisation.
 
 **Key result:** Reduced the loading time of a complex matrix visual from **82 seconds to 8 seconds**.
 
@@ -83,7 +105,6 @@ The modelling process compares additive and multiplicative trend and seasonal co
 
 Additional portfolio case studies are being prepared, including:
 
-- Qualification Achievement Rate reporting and forecasting
 - Operational compliance reporting
 - Education and learner-performance analytics
 - Power BI security, refresh and deployment processes
